@@ -1,0 +1,21 @@
+[nivel]
+origen=terrenogen.png
+mapa= ............
+      ........###.
+      ...#$$$.....
+      ............
+
+  [.]
+  tipo=pasto
+  x=16
+  y=0
+
+  [#]
+  tipo=monticulo
+  x=18
+  y=6
+
+  [$]
+  tipo=lava
+  x=13
+  y=9
